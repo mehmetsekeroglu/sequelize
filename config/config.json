@@ -1,0 +1,28 @@
+
+{
+    "development": {
+      "username": "school_user",
+      "password": "school_2021!",
+      "database": "school_dev",
+      "host": "164.90.168.84",
+      "dialect": "mysql",
+      "operatorsAliases": 0
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "operatorsAliases": false
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "database_production",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "operatorsAliases": false
+    }
+  }
+
